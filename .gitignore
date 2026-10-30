@@ -1,0 +1,6 @@
+# R history & environment cache
+.RData
+.Rhistory
+.Rproj.user/
+*.RData
+*.Rhistory
